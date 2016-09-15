@@ -1,6 +1,6 @@
 {
   "name": "development-proxy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "proxy your remote server for your web development. mock resources if you create some new features. cache server requests for developing offline",
   "main": "lib/index.js",
   "scripts": {
