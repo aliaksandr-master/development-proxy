@@ -12,3 +12,4 @@ npm-debug.log
 .gitattributes
 .gitignore
 LICENSE-MIT
+examples/
